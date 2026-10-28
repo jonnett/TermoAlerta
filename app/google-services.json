@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605510460509",
+    "project_id": "termoalerta-ae4ca",
+    "storage_bucket": "termoalerta-ae4ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605510460509:android:0dbe3a1fdc5776bae699b4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUK4gtdIGMZTEAgDNptZU58HhROwUhvec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Seguridad (ISO/IEC 27400): se prohíbe el tráfico HTTP sin cifrar.
+     Firebase usa HTTPS/TLS. Los mensajes entre teléfonos van cifrados con AES-256-GCM. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
